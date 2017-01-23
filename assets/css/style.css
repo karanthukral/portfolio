@@ -182,7 +182,12 @@ h1, h2, h3, h4, h5, h6 {
     background-size: cover;
 }
 
+/*images for post headers*/
 .inara {
+	background: url(../img/work.jpg) no-repeat center top;
+}
+
+.podcast {
 	background: url(../img/work.jpg) no-repeat center top;
 }
 
