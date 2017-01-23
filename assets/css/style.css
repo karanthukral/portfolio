@@ -205,6 +205,11 @@ h1, h2, h3, h4, h5, h6 {
 	color: #ffffff
 }
 
+.persona {
+  width: 10em;
+  height: 10em;
+}
+
 #aboutwrap {	
 	background: url(../img/about.jpg) no-repeat center top;
 	margin-top: -70px;
